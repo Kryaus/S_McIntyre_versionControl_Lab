@@ -115,3 +115,27 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Bananna Bread
+
+Ingredients:
+- 2 cups all-purpose flour
+- 1 teaspoon baking soda
+- 1/4 teaspoon salt
+- 3/4 cup brown sugar
+- 1/2 cup butter
+- 2 large eggs, beaten
+- 2 1/3 cups mashed overripe bananas
+
+Instructions:
+1. Preheat the oven to 350 degrees F (175 degrees C).
+2. Lightly grease a 9x5-inch loaf pan.
+3. Combine flour, baking soda, and salt in a large bowl.
+4. Beat brown sugar and butter in a separate large bowl until smooth.
+5. Stir in eggs and mashed bananas until well blended.
+6. Stir banana mixture into flour mixture until just combined.
+7. Pour batter into the prepared loaf pan.
+8. Bake in the preheated oven until a toothpick inserted into the center comes out clean,
+    about 60 minutes.
+9. Let bread cool in pan for 10 minutes, then turn out onto a wire rack to cool
+    completely.
