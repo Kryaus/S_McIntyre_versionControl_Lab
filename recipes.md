@@ -98,7 +98,7 @@ Ingredients:
 - 1 tsp salt
 - 1 cup unsalted butter, softened
 - 1 cup white sugar
-- 3/4 cup brown sugar
+- 1 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
 - 2 cups semisweet chocolate chips
